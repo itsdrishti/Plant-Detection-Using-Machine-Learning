@@ -151,11 +151,11 @@ python app.py
 
 ## 👤 Author
 
-**Drishti Panthari**
-Computer Science Engineering Student
-Machine Learning Enthusiast
+**Drishti Panthari** |
+| Computer Science Engineering Student
+| Machine Learning Enthusiast
 
-📌 GitHub: [https://github.com/itsdrishti]([https://github.com/itssahiljmbt](https://github.com/itsdrishti))
+📌 GitHub: [https://github.com/itsdrishti](https://github.com/itsdrishti)
 
 ---
 
