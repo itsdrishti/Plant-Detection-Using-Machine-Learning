@@ -60,21 +60,7 @@ This project presents a **machine learning–based plant disease detection syste
 
 ## 📂 Project Structure
 
-```
-Plant-Disease-Detection-using-machine-learning/
-│
-├── model/
-│   └── cnn_model.py
-│
-├── utils/
-│   └── image_preprocessing.py
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
+Create a react app and put models.ipynb in the model folder
 ---
 
 ## 📊 Results
@@ -165,11 +151,11 @@ python app.py
 
 ## 👤 Author
 
-**Sahil Rathor**
+**Drishti Panthari**
 Computer Science Engineering Student
-Machine Learning & Full-Stack Development Enthusiast
+Machine Learning Enthusiast
 
-📌 GitHub: [https://github.com/itssahiljmbt](https://github.com/itssahiljmbt)
+📌 GitHub: [https://github.com/itssahiljmbt](https://github.com/itssahiljmbt](https://github.com/itsdrishti))
 
 ---
 
